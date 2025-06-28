@@ -1,4 +1,4 @@
-# 「経済学のためのPython入門」用のJupyterLiteです。
+# 書籍「経済学のためのPython入門」用のJupyterLiteです。
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://python-keizaigaku.github.io/jlite)
 
